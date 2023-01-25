@@ -1,16 +1,54 @@
-### Hi there 👋
+<h1 align="center">Hello! 👋, I'm Yuvraj Shah </h1>
+<img align="right" alt="Coding" width="300" src="https://www.gifcen.com/wp-content/uploads/2021/07/zoro-gif-7.gif">
 
-<!--
-**Yuvraj1206/Yuvraj1206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **DSA in C++ & Java.**
 
-Here are some ideas to get you started:
+- 💬 Ask me about **Java, C==, C, Python.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me **yuvrajshah34@gmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/gaurav-verma-98b9aa239/](https://www.linkedin.com/in/gaurav-verma-98b9aa239/)
+
+- ⚡ Fun fact **I'm Funny**
+ <br>
+
+## LANGUAGES & TOOLS
+<div align="centre">
+   <img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/> <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
+   <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+   <img alt="Css" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+      <img alt="Css" src="https://img.shields.io/badge/html%20-%231572B6.svg?&style=for-the-badge&logo=html&logoColor=red"/>
+   <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+    <img alt="Css" src="https://img.shields.io/badge/github%20-%231572B6.svg?&style=for-the-badge&logo=github&logoColor=blue"/>
+       
+</div>
+<br>
+
+## CONNECT WITH ME:
+<div align="center">
+<a href="https://github.com/https://github.com/briskgaurav" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/https://twitter.com/briskgaurav" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/ https://www.linkedin.com/in/yuvraj-saha-119718224/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+</div>  
+<br>
+
+## 📊 GitHub Activity
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=briskgaurav&" alt="Yuvraj1206" /></p>
+<br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=briskgaurav&show_icons=true&locale=en" alt="Yuvraj1206" /></p>
+<br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=briskgaurav&show_icons=true&locale=en&layout=compact" alt="Yuvraj1206" /></p><br>
+
+## 📚 My Education Status
+<h4>⌚ B.Tech (CSE) at KCC Institute of Technology and Management ('25), Gr Noida </h4>
+<h4>🏆 12th from Shiksha Niketan Telco School, Jodhpur</h4>
+<h4>🏆 10th from Shiksha Niketan Telco School, Jodhpur</h4>
+
+
