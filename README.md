@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **DSA in C++ & Java.**
 
-- 💬 Ask me about **Java, C==, C, Python.**
+- 💬 Ask me about **Java, C++, C, Python.**
 
 - 📫 How to reach me **yuvrajshah34@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/gaurav-verma-98b9aa239/](https://www.linkedin.com/in/gaurav-verma-98b9aa239/)
+- 📄 Know about my experiences [[https://www.linkedin.com/in/gaurav-verma-98b9aa239/](https://www.linkedin.com/in/gaurav-verma-98b9aa239/)]([https://www.linkedin.com/in/gaurav-verma-98b9aa239/](https://www.linkedin.com/in/gaurav-verma-98b9aa239/))
 
 - ⚡ Fun fact **I'm Funny**
  <br>
