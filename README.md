@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **yuvrajshah34@gmail.com**
 
-- 📄 Know about my experiences [[https://www.linkedin.com/in/gaurav-verma-98b9aa239/](https://www.linkedin.com/in/gaurav-verma-98b9aa239/)]([https://www.linkedin.com/in/gaurav-verma-98b9aa239/](https://www.linkedin.com/in/gaurav-verma-98b9aa239/))
+- 📄 Know about my experiences [https://www.linkedin.com/in/yuvraj-saha-119718224/](https://www.linkedin.com/in/yuvraj-saha-119718224/)
 
 - ⚡ Fun fact **I'm Funny**
  <br>
@@ -40,11 +40,12 @@
 <br>
 
 ## 📊 GitHub Activity
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=briskgaurav&" alt="Yuvraj1206" /></p>
-<br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=briskgaurav&show_icons=true&locale=en" alt="Yuvraj1206" /></p>
-<br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=briskgaurav&show_icons=true&locale=en&layout=compact" alt="Yuvraj1206" /></p><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuvraj1206&show_icons=true&locale=en&layout=compact" alt="yuvraj1206" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yuvraj1206&show_icons=true&locale=en" alt="yuvraj1206" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yuvraj1206&" alt="yuvraj1206" /></p>
+
 
 ## 📚 My Education Status
 <h4>⌚ B.Tech (CSE) at KCC Institute of Technology and Management ('25), Gr Noida </h4>
