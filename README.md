@@ -49,7 +49,7 @@
 
 ## 📚 My Education Status
 <h4>⌚ B.Tech (CSE) at KCC Institute of Technology and Management ('25), Gr Noida </h4>
-<h4>🏆 12th from Shiksha Niketan Telco School, Jodhpur</h4>
-<h4>🏆 10th from Shiksha Niketan Telco School, Jodhpur</h4>
+<h4>🏆 12th from Shiksha Niketan Telco School, Jamshedpur</h4>
+<h4>🏆 10th from Shiksha Niketan Telco School, Jamshedpur</h4>
 
 
