@@ -1,9 +1,11 @@
 <h1 align="center">Hello! 👋, I'm Yuvraj Saha </h1>
 <img align="right" alt="Coding" width="300" src="https://www.gifcen.com/wp-content/uploads/2021/07/zoro-gif-7.gif">
 
-- 🌱 I’m currently learning **DSA in C++ & Java.**
+- 🌱 Motivated B.Tech CSE student with strong skills in MERN stack (MongoDB, Express, React, Node.js) web development.
+Experienced in building dynamic, user-friendly projects. Seeking to join a collaborative team that values innovation, clean code,
+and growth opportunities while enhancing my skills**
 
-- 💬 Ask me about **Java, C++, C, Python.**
+- 💬 Ask me about **Web development, Java, C++, C, Python.**
 
 - 📫 How to reach me **yuvrajshah34@gmail.com**
 
